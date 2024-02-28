@@ -54,22 +54,43 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" />
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit-colored.svg" width="36" height="36" alt="Streamlit" />
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="36" height="36" alt="Streamlit" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    <img src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_small.png" width="36" height="36" alt="MySQL" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="36" height="36" alt="MongoDB" />
+  </a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/452/amazon-dynamodb.png" width="36" height="36" alt="DynamoDB" />
+  </a>
+  <a href="https://www.serverless.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/serverless-colored.svg" width="36" height="36" alt="Serverless Framework" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
   </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer">
+    <img src="https://d1.awsstatic.com/logos/compute/aws-lambda/AWS_Lambda_Logo_RGB.1870df0d7374629153dbf7e9f7e5bb6febd7e8f7.png" width="36" height="36" alt="AWS Lambda" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" alt="Ubuntu" />
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.tableau.com/themes/custom/tableau_www/assets/images/logo.png" width="36" height="36" alt="Tableau" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/excel-colored.svg" width="36" height="36" alt="Excel" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" width="36" height="36" alt="Excel" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/Docker-Logo.png" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Azure_Power_BI_logo.svg" width="36" height="36" alt="PowerBI" />
   </a>
 </p>
 
