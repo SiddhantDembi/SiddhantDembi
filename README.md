@@ -1,7 +1,9 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Siddhant Dembi</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+
+
+
 <br>
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -73,6 +75,4 @@
   </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-
-<a href="https://github.com/SiddhantDembi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantDembi&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://app.daily.dev/siddhantdembi"><img src="https://api.daily.dev/devcards/v2/Y1RzYd4ppoqKF08UdhioV.png?r=tgr&type=wide" width="652" alt="Sid's Dev Card"/></a>
