@@ -75,4 +75,4 @@
   </a>
 </p>
 
-<a href="https://app.daily.dev/siddhantdembi"><img src="https://api.daily.dev/devcards/v2/Y1RzYd4ppoqKF08UdhioV.png?r=tgr&type=wide" width="652" alt="Sid's Dev Card"/></a>
+
