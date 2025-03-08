@@ -6,9 +6,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Networking and Cyber Security**
 
-- 👨‍💻 See my portfolio at [dembi.xyz](http://dembi.xyz)
+- 👨‍💻 See my portfolio at [profile.dembi.xyz](https://profile.dembi.xyz)
 
 - ✉️️ You can contact me at **siddhantdembi@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/siddhant-dembi-750744220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumilsuthar" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/siddhant-dembi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumilsuthar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
