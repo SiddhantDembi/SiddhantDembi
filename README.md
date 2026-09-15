@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Networking and Cyber Security**
 
-- 👨‍💻 See my portfolio at [profile.dembi.xyz](https://profile.dembi.xyz)
+- 👨‍💻 See my portfolio at [siddhantdembi.com](https://siddhantdembi.com)
 
 - ✉️️ You can contact me at **siddhantdembi@gmail.com**
 
